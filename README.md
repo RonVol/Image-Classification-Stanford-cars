@@ -1,11 +1,11 @@
 # Stanford Cars Dataset Exploration
 
 ## Overview
-This project was done as a part of the course "Practical Deep Learning Workshop" i am taking.
-This project delves into the Stanford Cars dataset, addressing challenges like inconsistent labels and metadata, and exploring CNN models, transfer learning, and feature extraction techniques.
+This project was done as a part of the course "Practical Deep Learning Workshop" i am taking.<br>
+While i took classes in machine learning and know the very basic theory, i never really implemented a neural network before, so this was very exciting.<br>
 
 ## Dataset Challenges and Preprocessing
-The first step was of course, to look at the dataset and see what's going on there:<br>
+The first step was to look at the dataset and see what's going on there:<br>
 https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset<br>
 While looking at the "Discussions" page, and inspecting the dataset myself, it seemed there are some problems.
 First of all, the metadata is in .mat, which is not very comfortable to work it.<br>
