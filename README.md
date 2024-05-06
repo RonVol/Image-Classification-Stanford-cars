@@ -1,8 +1,4 @@
 # Image classification - Stanford Cars
- 
-## Overview
-This project was done as a part of the course "Practical Deep Learning Workshop" i am taking.<br>
-While i took classes in machine learning and know the very basic theory, i never really implemented a neural network before, so this was very exciting.<br>
 
 ## Dataset Challenges and Preprocessing
 The first step was to look at the dataset and see what's going on there:<br>
